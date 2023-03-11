@@ -1,0 +1,407 @@
+#flag{
+    width: 50px;
+    height: 30px;
+    margin-left: 90%;
+    border-radius: 8px;
+    margin-top: -20%;
+}
+
+.content{
+    margin-left: 30%;
+    justify-content: space-between;
+    display: flex;
+    margin-right: 30%;  
+}
+
+.icon{
+    margin-left: 80%;
+}
+
+.back{
+    background-color: yellow;
+    
+}
+
+.brick{
+    margin-left: 20%;
+    margin-top: -3%;
+    
+}
+
+#bit{
+    margin-left: 10%;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.marg{
+    margin-left: 80%;
+    margin-top: -12%;
+    border: solid;
+    padding: 10px;
+    border-radius: 10px;
+}
+.but{
+    margin-left: 80%;
+}
+.text{
+    margin-left: 80%;
+}
+#we{
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+#lab{
+width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: yellow;
+    color: white;
+}
+.images{
+    margin-left: 10%;
+    
+}
+#reset{
+    margin-left: 20%;
+    font-size: 30px;
+}
+#cat{
+    padding: 10px 40px;
+    margin-left: 10%;
+}
+#fa{
+    margin-left: 20%;
+    border-radius: 5px;
+    padding: 10px 80px;
+}
+.save{
+    margin-bottom: -20%;
+    width: 60%;
+    margin-left: 10%;
+}
+#Dag{
+    margin-top: -2%;
+}
+#h3{
+    margin-top: -1%;
+}
+#Bo{
+    margin-top: -2%;
+}
+#b{
+    margin-top: -1%;
+}
+.pet{
+    margin-left: 25%;
+    margin-top: -18%;
+}
+#at{
+    margin-top: -1%;
+}
+#pa{
+margin-top: -1%;
+}
+.box2{
+    margin-left: 50%;
+    margin-top: -15%;
+}
+#man{
+    margin-top: -1.5%;
+}
+#non{
+    margin-top: -1%;
+}
+.kip{
+    margin-left: 80%;
+    margin-top: -23%;
+}
+#D{
+    margin-left: 50%;
+    font-size: 20px;
+}
+#clon{
+    margin-top: -1%;
+}
+#c{
+    margin-top: -1%;
+}
+.mar{
+margin-left: 10%;
+}
+#To{
+    margin-left: -3%;
+}
+#pesa{
+    margin-top: -1%;
+}
+.div{
+    margin-left: 35%;
+    margin-top: -20%;
+}
+#pay{
+    margin-top: -2%;
+}
+#pot{
+    margin-top: -1%;
+}
+.new{
+    margin-left: 60%;
+    margin-top: -20%;
+}
+#pen{
+    margin-top: -1%;
+}
+#sta{
+    margin-top: -1%;
+}
+.you{
+    margin-left: 80%;
+    margin-top: -18%;
+}
+#ser{
+    margin-left: 50%;
+}
+#on{
+    margin-left: 10%;
+    border: solid;
+    border-radius: 30px;
+    width: 25%;
+    height: 150px;
+    text-align: center;
+    font-size: 30px;
+    background-color: black;
+    color: white;
+}
+#vel{
+    margin-left: 40%;
+    margin-top: -12%;
+    border: solid;
+    border-radius: 30px;
+    width: 25%;
+    height: 150px;
+    text-align: center;
+    font-size: 30px;
+    background-color: palevioletred;
+    color: white;
+}
+#many{
+    margin-left: 70%;
+    margin-top: -12%;
+    border: solid;
+    border-radius: 30px;
+    width: 25%;
+    height: 150px;
+    text-align: center;
+    font-size: 30px;
+    background-color:darkblue;
+    color: white;
+}
+#tor{
+    margin-left: 10%;
+    border: solid;
+    border-radius: 30px;
+    width: 25%;
+    height: 150px;
+    text-align: center;
+    font-size: 30px;
+    background-color:yellow;
+    color: white;
+}
+#by{
+    margin-left: 40%;
+    margin-top: -12%;
+    border: solid;
+    border-radius: 30px;
+    width: 25%;
+    height: 150px;
+    text-align: center;
+    font-size: 30px;
+    background-color:black;
+    color: white;
+}
+#ha{
+    margin-left: 70%;
+    /* margin-bottom: 2%; */
+    margin-top: -12%;
+    border: solid;
+    border-radius: 30px;
+    width: 25%;
+    height: 150px;
+    text-align: center;
+    font-size: 30px;
+    background-color:darkblue;
+    color: white;
+}
+#go{
+    margin-left: 10%;
+    /* margin-bottom: 10%; */
+    border: solid;
+    border-radius: 30px;
+    width: 20%;
+    height: 130px;
+    text-align: center;
+    font-size: 30px;
+    background-color:darkred;
+    color: white; 
+}
+#min{
+    margin-left: 33%;
+    margin-top: -10%;
+    border: solid;
+    border-radius: 30px;
+    width: 20%;
+    height: 130px;
+    text-align: center;
+    font-size: 30px;
+    background-color: lightsteelblue;
+    color: white; 
+}
+#cla{
+    margin-left: 55%;
+    margin-top: -10%;
+    border: solid;
+    border-radius: 30px;
+    width: 20%;
+    height: 130px;
+    text-align: center;
+    font-size: 30px;
+    background-color: yellow;
+    color: white; 
+}
+#pol{
+    margin-left: 78%;
+    margin-top: -10%;
+    border: solid;
+    border-radius: 30px;
+    width: 20%;
+    height: 130px;
+    text-align: center;
+    font-size: 30px;
+    background-color: darkblue;
+    color: white; 
+}
+#p{
+    margin-left: 10%;
+    border: solid;
+    border-radius: 30px;
+    width: 20%;
+    height: 130px;
+    text-align: center;
+    font-size: 40px;
+    background-color: darkblue;
+    color: white;
+   
+}
+#ney{
+    margin-left: 33%;
+    margin-top: -10%;
+    border: solid;
+    border-radius: 30px;
+    width: 20%;
+    height: 130px;
+    text-align: center;
+    font-size: 40px;
+    background-color: lightblue;
+    color: white; 
+}
+#li{
+    margin-left: 55%;
+    margin-top: -10%;
+    border: solid;
+    border-radius: 30px;
+    width: 20%;
+    height: 130px;
+    text-align: center;
+    font-size: 30px;
+    background-color: navy;
+    color: white;  
+}
+#lo{
+    margin-left: 78%;
+    margin-top: -10%;
+    border: solid;
+    border-radius: 30px;
+    width: 20%;
+    height: 130px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    background-color: purple;
+}
+#me{
+    margin-left: 40%;
+    border-radius: 20px;
+    width: 15%;
+    height: 50px;
+    background-color: yellow;
+    color: white;
+}
+#chir{
+    margin-left: 40%;
+}
+#add{
+    margin-left: 10%;
+    border-radius: 5%;
+}
+#new{
+    margin-left: 10%;
+}
+#pro{
+    /* margin-left: 20%; */
+    border-radius: 5%;
+}
+#Bi{
+    margin-top: 1%;
+    margin-left: 5%;
+}
+.peg{
+    margin-left: 41%;
+    margin-top: -20%;
+}
+#alot{
+    border-radius: 5%;
+
+}
+#Ex{
+    margin-top: 1%;
+    margin-left: 5%;
+}
+.pap{
+    margin-left: 70%;
+    margin-top: -17%;
+}
+
+
+.many{
+    justify-content: space-between;
+    display: flex;
+    background-color: blue;
+    border-radius: 10px;
+    
+    
+}
+.any{
+    margin-right: 10%;
+    margin-left: 10%;
+}
+#pic{
+    width: 50%;
+    height: 200%;
+}
+
+.bad{
+    width: 10%;
+    height: 20%;
+}
+.get{
+justify-content: space-between;
+display: flex;
+background-color: yellow;
+}
+#txt{
+    padding: 10px 40px;
+    
+}
