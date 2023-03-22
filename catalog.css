@@ -1,0 +1,456 @@
+.radii{
+    border:wheat solid;
+    border-radius: 10px;
+
+  
+}
+#at{
+    margin-left: 40%;
+}
+#flag{
+    width: 50px;
+    height: 30px;
+    margin-left: 90%;
+    border-radius: 8px;
+    margin-top: -20%;
+}
+#cat{
+    margin-left: 10%;
+    font-size: 20px;
+    border-radius: 30px;
+    height: 30px;
+    width: 10%;
+}
+
+.content{
+    margin-left: 30%;
+    justify-content: space-between;
+    display: flex;
+    margin-right: 30%;  
+}
+
+.back{
+    background-color: yellow;   
+}
+.icon{
+    margin-left: 80%;
+}
+
+.brick{
+    margin-left: 20%;
+    margin-top: -3%;
+    
+}
+
+#bit{
+    margin-left: 10%;
+    font-size: 30px;
+    margin-bottom: 20px;
+    
+}
+#fa{
+    width: 20%;
+    height: 30px;
+    text-align: left;
+}
+.war{
+    background-color: black;
+}
+#good{
+    margin-left: 45%;
+    font-size: 30px;
+    color: white;
+    margin-top: -1%;
+}
+#bad{
+    color: white;
+    margin-left: 10%;
+}
+.kip{
+    list-style-type: none;
+}
+.h3{
+    list-style-type: none;
+}
+.G{
+    list-style-type: none; 
+}
+.L{
+    list-style-type: none;   
+}
+.word{
+    border:wheat solid;
+    width: 15%;
+    text-align: left;
+    border-radius: 15px;
+    margin-left: 2%;
+}
+#stand{
+    width: 25%;
+}
+#Dag{
+    margin-top: -4%;
+}
+#he{
+    margin-top: -1%;
+    color: red;
+}
+.all{
+    margin-left: 20%;
+    margin-top: -50%;
+}
+#img{
+    width: 30%;
+    /* margin-left: 50%; */
+    
+}
+#mb{
+    margin-top: -1%;
+    font-size: 15px;
+}
+#hq{
+    margin-top: -1%;
+    font-size: 15px;  
+}
+#y7{
+    color: yellow;
+    margin-top: -3%;
+    margin-left: 20%;
+    margin-top: -10%;
+}
+#py{
+    margin-left: 25%;
+    color: yellow;
+}
+#kl{
+    margin-top: -1%;
+    color: red;
+}
+.mr{
+    margin-left: 50%;
+    margin-top: -20%;
+}
+#cl{
+    margin-left: 30%;
+}
+#ar{
+    margin-left: 15%;
+    margin-top: -8%;
+    color: yellow;
+}
+#w1{
+    margin-left: 20%;
+}
+#shop{
+    width: 60%;
+}
+#te{
+    margin-top: -1%;
+}
+#r2{
+    margin-top: -1%;
+}
+#t2{
+    margin-top: -1%;
+    color: red;
+}
+#g1{
+    margin-top: -3%;
+    color: yellow;
+    margin-left: 55%;
+}
+.tou{
+    margin-left: 78%;
+    margin-top: -20%;
+}
+#ft{
+    color: yellow;
+    margin-left: 35%;
+    margin-top: -25%;
+}
+#sam{
+    width: 20%;
+}
+#re{
+    margin-top: -1%;
+}
+#l{
+    margin-top: -1%;
+}
+#pi{
+    color: yellow;
+    margin-top: -1%;
+    margin-left: 15%;
+    margin-top: -6%;
+}
+#ul{
+  color: wheat;
+  margin-top: -2%;
+  margin-left: 15%;
+
+}
+.tank{
+   margin-left: 20%;
+   margin-top: 4%;
+}
+#pa{
+    margin-top: -1%;
+    font-size: 15px;
+}
+#yo{
+    margin-top: -1%;
+}
+#le{
+    margin-top: -2%;
+    color: red;
+}
+.br{
+    margin-left: 50%;
+    margin-top: -20%;
+}
+#u7{
+   margin-left: 20%;
+   margin-top: -12%;
+   color: yellow;
+}
+#pp{
+    margin-left: 30%;
+    color: wheat;
+}
+#st{
+    /* margin-top: -1%; */
+    font-size: 15px;
+}
+#t5{
+   margin-top: -1%;
+}
+.name{
+    margin-left: 80%;
+    margin-top: -22%;
+}
+#m3{
+   color: yellow;
+   margin-left: 40%;
+   margin-top: -20%;
+}
+#fa2{
+    margin-left: 50%;
+    color: wheat;
+}
+.picha{
+    margin-left: 22%;
+}
+#id{
+    width: 25%;
+}
+#wr{
+    margin-left: 20%;
+    color: yellow;
+}
+#py{
+    margin-left: 25%;
+    color: wheat;
+}
+#man{
+    margin-top: -5%;
+}
+.python{
+    margin-left: 50%;
+    margin-top: -25%;
+}
+#yt{
+    width: 40%;
+}
+#p0{
+    margin-top: -1%;
+    color: yellow;
+    margin-left: 25%;
+}
+#l0{
+    margin-left: 30%;
+    color: wheat;
+}
+#ba{
+    margin-top: -5%;
+}
+.ken{
+    margin-left: 80%;
+    margin-top: -27%;
+}
+#kel{
+    color: yellow;
+    margin-left: 60%;
+}
+#th{
+    margin-top: -5%;
+}
+#hj{
+    margin-left: 70%;
+    color: wheat;
+}
+.own{
+    margin-left: 20%;
+}
+#fg{
+    height: 200px;
+}
+#hot{
+    margin-left: 20%;
+    color: yellow;
+}
+#jk{
+    margin-left: 25%;
+    color: wheat;
+}
+#PP{
+    margin-top: -5%;
+    color: wheat;
+}
+#TY{
+    margin-top: -2%;
+    color: red;
+}
+.opo{
+    margin-left: 45%;
+    margin-top: -27%;
+}
+#yop{
+    color: yellow;
+    margin-left: 30%;
+}
+#uy{
+    margin-left: 40%;
+    color: wheat;
+}
+#jy{
+    margin-top: -5%;
+}
+.fe{
+    margin-left: 78%;
+    margin-top: -28%;
+}
+#cla{
+    color: yellow;
+    margin-left: 60%;
+}
+#loc{
+    margin-left: 70%;
+    color: wheat;
+}
+#mimi{
+    margin-top: -7%;
+}
+.buy{
+    margin-left: 20%;
+}
+#art{
+    margin-left: 20%;
+    color: yellow;
+}
+#yeye{
+    margin-left: 25%;
+    color: wheat;
+}
+#saw{
+    margin-top: -5%;
+}
+.hunter{
+    margin-left: 50%;
+    margin-top: -25%;
+}
+#ly{
+    color: yellow;
+    margin-left: 30%;
+}
+#naah{
+    color: yellow;
+    margin-left: 35%;
+}
+#pia{
+    margin-top: -7%;
+    color: red;
+}
+#in{
+    color: wheat;
+}
+.mart{
+    margin-left: 80%;
+    margin-top: -30%;
+}
+#pap{
+    color: yellow;
+    margin-left: 40%;
+}
+#ny{
+    margin-left: 60%;
+    color: wheat;
+}
+#sina{
+    margin-top: -7%;
+}
+.span1{
+    margin-left: 20%;
+    
+}
+.many{
+    background-color: purple;
+    justify-content: space-between;
+    display: flex;
+    border: solid;
+    border-radius: 10px;
+}
+#spa{
+    border-radius: 70%;
+    height: 40px;
+    width: 4%;
+    background-color: yellow;
+    color: white;
+}
+#tt{
+    border-radius: 70%;
+    height: 40px;
+    width: 4%;
+    margin-left: 5%;
+}
+#on{
+    border-radius: 70%;
+    height: 40px;
+    width: 4%;
+    margin-left: 5%;
+}
+#bu{
+    border-radius: 70%;
+    height: 40px;
+    width: 4%; 
+    margin-left: 5%;
+}
+#mm{
+    border-radius: 70%;
+    height: 40px;
+    width: 4%; 
+    margin-left: 5%;
+}
+#pq{
+    border-radius: 70%;
+    height: 40px;
+    width: 4%; 
+    margin-left: 5%;
+}
+#ser{
+    height: 70px;
+    width: 20%;
+    background-color: yellow;
+    color: white;
+    margin-left: 40%;
+    border-radius: 10%;
+}
+
+body {
+    /* background-color: aquamarine; */
+  }
+  
+  @media screen and (max-width: 600px) {
+    .radii {
+      /* background-color: lightblue; */
+    }
+  }
