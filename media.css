@@ -26,6 +26,9 @@
         width: 5%;
     }
 
-
-
 }
+body {
+    background-color: wheat;
+    width: 0px;
+  }
+  
