@@ -17,7 +17,7 @@
         width: 5%;
     }
     .ppp{
-        width: 5%;
+        width: 5%; width: 0px; */
     }
     .images{
         width: 5%;
@@ -27,8 +27,8 @@
     }
 
 }
-body {
+/* body {
     background-color: wheat;
 /*     width: 0px; */
-  }
+  } */
   
