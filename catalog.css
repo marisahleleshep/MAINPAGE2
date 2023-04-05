@@ -446,11 +446,11 @@
 }
 
 body {
-    /* background-color: aquamarine; */
+    background-color: aquamarine;
   }
   
   @media screen and (max-width: 600px) {
     .radii {
-      /* background-color: lightblue; */
+      background-color: lightblue;
     }
   }

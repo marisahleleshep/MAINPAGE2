@@ -1,7 +1,8 @@
 @media only screen and(max-width:800px){
-    /*  */
+    
     .content{
         width: 5%;
+        
     }
     .back{
         width: 5%;
@@ -29,3 +30,12 @@
 
 
 }
+
+body {
+    background-color: wheat;
+    /* width: 0px; */
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+  
+  
