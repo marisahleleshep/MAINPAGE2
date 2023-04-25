@@ -445,12 +445,3 @@
     border-radius: 10%;
 }
 
-body {
-    background-color: aquamarine;
-  }
-  
-  @media screen and (max-width: 600px) {
-    .radii {
-      background-color: lightblue;
-    }
-  }

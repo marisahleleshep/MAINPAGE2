@@ -197,26 +197,89 @@
 .pro{
     display: flex;
     justify-content: space-between;
-    border:black solid;
+    /* border:black solid; */
     background-color: wheat;
     text-align: left;
     border-radius: 10px;
     
     
 }
-/* @media only screen and(max-width:800px){
-    
-    .content{
-        width: 5%;
-        
-    } */
-    @media only screen and (min-width: 768px) and (max-width: 1023px) {
-        .media{
-            width: 5%;
-        }
-        /* CSS code for tablet-sized screens */
-        }
 
+
+@media screen and (max-width:420px){
+    .pro{
+        display: grid;
+        width: 350px;
+    }
+    .gig{
+        display: grid;
+    }
+    .icon2{
+        color: black;
+        margin-left: 360px;
+        margin-top: -15%;
+    }
+    #fa2{
+        width: 70%;
+        height: 20%;
+        margin-right: 70%;
+    }
+    #cat2{
+        width: 70%;
+    }
+    .back2{
+        width: 100%;
+        height: 50%;
+    }
+    .content2{
+        display: grid;
+    }
+    #flag2{
+        margin-left: 130px;
+        margin-top: 20px;
+    }
+    .ll{
+        margin-top: 30%;
+        margin-left:30px;
+        width: 90%;
+    }
+    .san{
+        margin-top: 20%;
+        margin-left: 50px;
+    }
+    .we{
+        margin-top: 20%;
+        margin-left: 50px;
+    }
+    .bru{
+        margin-top: 20%;
+        margin-left: 50px;
+    }
+    #nn{
+        margin-left: 50px;
+    }
+    #rr{
+        margin-left: 100px;
+    }
+    #ma{
+        margin-left: 100px;
+    }
+    #ly{
+        margin-left: 100px;
+    }
+    #ny{
+        margin-left: 100px;
+    }
+    #cc{
+        margin-left: 100px;
+    }
+    #dd{
+        margin-left: 100px;
+    }
+
+    
+    
+}
 
 
 

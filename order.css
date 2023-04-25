@@ -1,0 +1,108 @@
+.all{
+    justify-content: space-between;
+    background-color: yellowgreen;
+    margin-left: 15%;
+
+}
+
+#br{
+    font-size: 30px;
+    color: white;
+}
+#pp{
+    font-size: 20px;
+    color: white;
+    margin-left: 10%;
+}
+#kk{
+    color: white;
+    font-size: 20px;
+    margin-left: 30%;
+}
+#jj{
+    margin-left: 30%;
+    font-size: 40px;
+}
+.cont{
+    margin-left: 75%;
+    border:wheat solid;
+    border-radius: 20px;
+    margin-top: -200px;
+    width: 250px;
+    text-align: 100px;
+    height: 350px;
+}
+#you{
+    width: 220px;
+    height: 35px;
+    border-radius: 5px;
+    color: green;
+    background-color: white;
+    border: green solid;
+}
+#code{
+    width: 220px;
+    height: 35px;
+    border-radius: 5px;
+    color: black;
+    background-color: white;
+    text-align: left;
+    font-size: 15px;
+}
+#hy{
+    width: 220px;
+    height: 35px;
+    border-radius: 5px;
+    color: white;
+    background-color: yellow;
+    border:yellow solid;
+    font-size: 15px;
+}
+#job{
+    margin-left: 20%;
+}
+#lab{
+    font-size: 25px;
+}
+.ky1{
+    font-size: 15px;
+    width: 300px;
+    height: 35px;
+    border-radius: 5px;
+}
+#la{
+    font-size: 20px;
+}
+.ty{
+    font-size: 15px;
+    width: 300px;
+    height: 35px;
+    border-radius: 5px;
+}
+#pp{
+    /* font-size: 20px; */
+}
+.yy{
+    font-size: 15px;
+    width: 300px;
+    height: 35px;
+    border-radius: 5px;
+}
+.par{
+    margin-left: 500px;
+    margin-top: -170px;
+}
+.lal{
+    margin-left: 100px;
+}
+.pop{
+    margin-left: 450px;
+    margin-top: -150px;
+}
+.we{
+    margin-left: 100px;
+}
+.mimi{
+    margin-left: 100px;
+    margin-top: 80px;
+}
